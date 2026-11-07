@@ -53,7 +53,7 @@ TopBar.BackgroundTransparency = 1
 TopBar.Parent = Main
 
 local Logo = Instance.new("TextLabel")
-Logo.Text = "  ⚡ Evenesce Farm"
+Logo.Text = "Zuri Auto Farm✅"
 Logo.Font = Enum.Font.GothamBold
 Logo.TextSize = 16
 Logo.TextColor3 = Color3.fromRGB(140, 130, 255)
